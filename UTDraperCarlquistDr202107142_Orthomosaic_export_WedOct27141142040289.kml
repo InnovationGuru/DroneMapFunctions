@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+      <GroundOverlay>
+        <Icon>
+          <href>UTDraperCarlquistDr202107142_Orthomosaic_export_WedOct27141142040289.tif</href>
+        </Icon>
+        <LatLonBox>
+          <north>40.51343888888889</north>
+          <south>40.51135277777778</south>
+          <east>-111.86348055555555</east>
+          <west>-111.87317777777777</west>
+        </LatLonBox>
+        <name>UTDraperCarlquistDr202107142_Orthomosaic_export_WedOct27141142040289.tif</name>
+        <drawOrder>1</drawOrder>
+      </GroundOverlay>
+  </Document>
+</kml>
